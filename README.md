@@ -1,7 +1,7 @@
 
-# iOS专项学习计划专题
+# iOS专项学习计划专题
 
-不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
+不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
 
 ## Objective-C
 
@@ -13,7 +13,7 @@
 [Runloop - Apple文档](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Multithreading/RunLoopManagement/RunLoopManagement.html#//apple_ref/doc/uid/10000057i-CH16-SW1) | Runloop(苹果官方文档)
 [Concurrency Programming Guide - Apple文档](https://developer.apple.com/library/content/documentation/General/Conceptual/ConcurrencyProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008091-CH1-SW1) | Concurrency Programming Guide - Apple文档
 [Runloop - Apple文档翻译](http://blog.sina.com.cn/s/blog_4cd8dd130101ntiy.html) | Runloop苹果文档翻译
-[Threading Programming Guide - Apple文档翻译](https://github.com/0oneo/iOSTranslation/blob/master/Apple/%E7%BF%BB%E8%AF%91%20Threading%20Programming%20Guide.md) | 翻译 Threading Programming Guide
+[Threading Programming Guide - Apple文档翻译](https://github.com/0oneo/iOSTranslation/blob/master/Apple/%E7%BF%BB%E8%AF%91%20Threading%20Programming%20Guide.md) | 翻译 Threading Programming Guide
 [Method Swizzling](http://nshipster.com/method-swizzling/) | Method Swizzling
 [Method Swizzling 和 AOP 实践](http://tech.glowing.com/cn/method-swizzling-aop/) | glowing团队
 [Objective-C +load vs +initialize](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/) | Objective-C +load vs +initialize(作者雷纯锋)
