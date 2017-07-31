@@ -28,7 +28,7 @@
 [Run repeating NSTimer with GCD?](https://stackoverflow.com/questions/10522928/run-repeating-nstimer-with-gcd) | Run repeating NSTimer with GCD?
 [Method Swizzle 与 AOP](http://csbzhixing.github.io/2016/08/19/Method%20Swizzle%20%E4%B8%8E%20AOP/) | Method Swizzle 与 AOP
 [重识 Objective-C Runtime - 看透 Type 与 Value](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/) | 作者孙源
-[反编译分析并模拟实现methodSignatureForSelector方法](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/) | 作者：[三土哥](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
+[反编译分析并模拟实现methodSignatureForSelector方法](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/) | 作者：[土土哥](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
 
 ### 音视频/图文/动画
 
