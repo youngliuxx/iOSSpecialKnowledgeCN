@@ -1,5 +1,4 @@
 
-
 # iOS专项学习计划专题
 
 不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
@@ -28,6 +27,8 @@
 [iOS多线程编程Part 3/3 - GCD](http://w11h22j33.iteye.com/blog/1998626) | iOS多线程编程Part 3/3 - GCD
 [Run repeating NSTimer with GCD?](https://stackoverflow.com/questions/10522928/run-repeating-nstimer-with-gcd) | Run repeating NSTimer with GCD?
 [Method Swizzle 与 AOP](http://csbzhixing.github.io/2016/08/19/Method%20Swizzle%20%E4%B8%8E%20AOP/) | Method Swizzle 与 AOP
+[重识 Objective-C Runtime - 看透 Type 与 Value](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/) | 作者孙源
+[反编译分析并模拟实现methodSignatureForSelector方法](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/) | 作者：[三土哥](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
 
 ### 音视频/图文/动画
 
@@ -37,6 +38,12 @@
 [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/) |  移动端图片格式调研
 [iOS 处理图片的一些小 Tip](http://blog.ibireme.com/2015/11/02/ios_image_tips/) | iOS 处理图片的一些小 Tip
 [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/) | iOS 保持界面流畅的技巧
+[颜色模型](http://blog.ibireme.com/2013/08/12/color-model/) | 颜色模型
+[视音频数据处理入门：RGB、YUV像素数据处理](http://blog.csdn.net/leixiaohua1020/article/details/50534150) |  视音频数据处理入门系列文章第一篇 - 雷霄骅
+[How to Play, Record, and Merge Videos in iOS and Swift](https://www.raywenderlich.com/94404/play-record-merge-videos-ios-swift) | Raywenderlich
+[About AVFoundation](https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html#//apple_ref/doc/uid/TP40010188-CH1-SW3) | Apple文档
+[GPUImage](https://github.com/BradLarson/GPUImage) | GPUImage官网
+[GPUImage](http://nshipster.com/gpuimage/) | nshipster.com
 
 ### 网络处理
 
@@ -71,9 +78,17 @@
 [iOS 保持界面流畅的技巧](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/) | iOS 保持界面流畅的技巧 - ibireme
 [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html) | WebView性能、体验分析与优化 - 美团技术团队博客
 [基于 KIF 的 iOS UI 自动化测试和持续集成](https://tech.meituan.com/iOS-UITest-KIF.html) | 基于 KIF 的 iOS UI 自动化测试和持续集成 - 美团技术团队博客
+[What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/) | 作者玉令天下
 
+### 功能/界面适配/界面相关
 
-### 功能/界面相关
+文章名称 | 简介 |
+----|------|
+[自制一款强大的 ActionSheet](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/) | 作者：[玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
+[UIAlertController in iOS8](http://yulingtianxia.com/blog/2014/09/29/uialertcontroller-in-ios8/) | 作者：[玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
+[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/) | 作者：[土土哥](http://tutuge.me/)
 
-### 大杂烩
+### 其它
 
+文章名称 | 简介 |
+----|------|
