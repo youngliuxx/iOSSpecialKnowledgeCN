@@ -1,4 +1,5 @@
 
+
 # iOS专项学习计划专题
 
 不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
@@ -29,6 +30,9 @@
 [Method Swizzle 与 AOP](http://csbzhixing.github.io/2016/08/19/Method%20Swizzle%20%E4%B8%8E%20AOP/) | Method Swizzle 与 AOP
 [重识 Objective-C Runtime - 看透 Type 与 Value](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/) | 作者孙源
 [反编译分析并模拟实现methodSignatureForSelector方法](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/) | 作者：[三土哥](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
+[Objective-C Automatic Reference Counting (ARC)¶](https://clang.llvm.org/docs/AutomaticReferenceCounting.html) | llvm.org
+[线程安全之锁](https://wangdetong.github.io/2017/04/11/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E4%B9%8B%E9%94%81/) | WangDetong's Blog
+[Objective-C +load vs +initialize](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/) | 雷纯锋的技术博客
 
 ### 音视频/图文/动画
 
@@ -44,6 +48,12 @@
 [About AVFoundation](https://developer.apple.com/library/content/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/00_Introduction.html#//apple_ref/doc/uid/TP40010188-CH1-SW3) | Apple文档
 [GPUImage](https://github.com/BradLarson/GPUImage) | GPUImage官网
 [GPUImage](http://nshipster.com/gpuimage/) | nshipster.com
+[iOS动画－－进阶（一）](http://www.macvpn.hk/version/c/phone_share/share.html?shareId=sov) | CatchZeng Blog
+[iOS动画高级技术](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) | AttackOnDobby
+[ (译)OpenGL ES 2.x 教程(一)](http://bayonetta.github.io/ios/OpenGL_ES2.0_tutorial_1/) | Bayonetta
+[最简单的基于FFmpeg的移动端例子：iOS HelloWorld](http://blog.csdn.net/leixiaohua1020/article/details/47071547) | 雷霄骅
+[iOS图形原理与离屏渲染](http://sonnewilling.com/blog/2016/10/19/iostu-xing-yuan-li-yu-chi-ping-xuan-ran/#fn:2) | http://sonnewilling.com/
+
 
 ### 网络处理
 
@@ -79,6 +89,13 @@
 [WebView性能、体验分析与优化](https://tech.meituan.com/WebViewPerf.html) | WebView性能、体验分析与优化 - 美团技术团队博客
 [基于 KIF 的 iOS UI 自动化测试和持续集成](https://tech.meituan.com/iOS-UITest-KIF.html) | 基于 KIF 的 iOS UI 自动化测试和持续集成 - 美团技术团队博客
 [What's New in LLVM 9](http://yulingtianxia.com/blog/2017/07/17/What-s-New-in-LLVM-2017/) | 作者玉令天下
+[iOS微信小视频优化心得](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207686973&idx=1&sn=1883a6c9fa0462dd5596b8890b6fccf6&3rd=MzA3MDU4NTYzMw==&scene=6#rd) | yanyang
+[微信读书 iOS 性能优化总结](https://wereadteam.github.io/2016/05/03/WeRead-Performance/) | WeRead团队 - hypo
+[使用 Instruments 做 iOS 程序性能调试](http://www.samirchen.com/use-instruments/) | SamirChen
+[与调试器共舞 - LLDB 的华尔兹](https://objccn.io/issue-19-2/) | objccn.io
+[LLDB调试命令初探](http://www.starfelix.com/blog/2014/03/17/lldbdiao-shi-ming-ling-chu-tan/) | starfelix.com
+[当 NSDictionary 遇见 nil](http://tech.glowing.com/cn/how-we-made-nsdictionary-nil-safe/) | glowing团队
+[微信iOS卡顿监控系统](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) | 微信 iOS 团队 - guoling
 
 ### 功能/界面适配/界面相关
 
