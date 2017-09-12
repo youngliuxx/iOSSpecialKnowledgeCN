@@ -1,8 +1,6 @@
+# iOS专项学习 - 高质量文章收集
 
-
-# iOS专项学习计划专题
-
-不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
+按iOS知识点分类收集的高质量文章，不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
 
 ## Objective-C
 
@@ -53,6 +51,8 @@
 [ (译)OpenGL ES 2.x 教程(一)](http://bayonetta.github.io/ios/OpenGL_ES2.0_tutorial_1/) | Bayonetta
 [最简单的基于FFmpeg的移动端例子：iOS HelloWorld](http://blog.csdn.net/leixiaohua1020/article/details/47071547) | 雷霄骅
 [iOS图形原理与离屏渲染](http://sonnewilling.com/blog/2016/10/19/iostu-xing-yuan-li-yu-chi-ping-xuan-ran/#fn:2) | http://sonnewilling.com/
+[iOS富文本组件的实现—DTCoreText源码解析 数据篇](http://blog.cnbang.net/tech/2630/) | bang's blog
+[iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/) | bang's blog
 
 ### 网络处理
 
@@ -60,6 +60,9 @@
 ----|------|
 [NSURLProtocol 全攻略](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/) | NSURLProtocol 全攻略 - 网易乐得团队
 [iOS应用架构谈 网络层设计方案](https://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html) | iOS应用架构谈 网络层设计方案 - casatwy
+[AFNetworking2.0源码解析<一>](http://blog.cnbang.net/tech/2320/) - bang's blog
+[AFNetworking源码解析](http://www.guiyongdong.com/2017/02/15/AFNetworking%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) | 贵大头
+[iOS 网络请求专题](http://liuyanwei.jumppo.com/2016/05/09/iOS-networking-0.html) | 刘彦玮的技术博客
 
 ### 内存/数据/存储
 
@@ -67,6 +70,8 @@
 ----|------|
 [持久化学习系列1](http://csbzhixing.github.io/2017/01/08/%E6%8C%81%E4%B9%85%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%971/) | 持久化学习系列1 - csbzhixing
 [持久化学习系列2](http://csbzhixing.github.io/2017/01/10/%E6%8C%81%E4%B9%85%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%972/) | 持久化学习系列2 - csbzhixing
+[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | casatwy.com
+[APP 缓存数据线程安全问题探讨](http://blog.cnbang.net/tech/3262/) | bang's blog
 
 ### 安全/逆向
 
@@ -75,6 +80,9 @@
 [谈谈移动应用的安全性实践](http://tech.glowing.com/cn/tan-tan-yi-dong-ying-yong-de-an-quan-xing-shi-jian/) | 谈谈移动应用的安全性实践
 [如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战](http://yulingtianxia.com/blog/2017/03/06/How-to-hook-the-correct-method-in-reverse-engineering/) | 如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战 - 玉令天下
 [Make WeChat Great Again](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) | Make WeChat Great Again - 玉令天下
+[蒸米的文章(iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等)
+](https://github.com/zhengmin1989/MyArticles) | 蒸米
+
 
 ### 优化/质量/调试
 
@@ -95,6 +103,14 @@
 [LLDB调试命令初探](http://www.starfelix.com/blog/2014/03/17/lldbdiao-shi-ming-ling-chu-tan/) | starfelix.com
 [当 NSDictionary 遇见 nil](http://tech.glowing.com/cn/how-we-made-nsdictionary-nil-safe/) | glowing团队
 [微信iOS卡顿监控系统](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207890859&idx=1&sn=e98dd604cdb854e7a5808d2072c29162&scene=4#wechat_redirect) | 微信 iOS 团队 - guoling
+[UITableView Tips](https://github.com/vedon/iOS-tech/blob/master/UITableViewOpt/UITableView_Opt.md) | vedon
+[perfect-smooth-scrolling-in-uitableviews](https://medium.com/ios-os-x-development/perfect-smooth-scrolling-in-uitableviews-fd609d5275a5) | Alexander Orlov
+[解决常见的masksToBounds离屏渲染带来的性能损耗](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/%E8%A7%A3%E5%86%B3%E5%B8%B8%E8%A7%81%E7%9A%84masksToBounds%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%80%A7%E8%83%BD%E6%8D%9F%E8%80%97) | 解决常见的masksToBounds离屏渲染带来的性能损耗
+[实现 60fps 的网易云音乐首页](https://mp.weixin.qq.com/s?__biz=MzA4MzEwOTkyMQ==&mid=2667379069&idx=1&sn=376d9ef2261cf13e930406f1c35d3569&chksm=84f32833b384a1250ef66f76a8d050216fd3b0bd4ea99b55f4a609cf268c8169ac2889746245&mpshare=1&scene=1&srcid=0810MDXnroCGDhecWqlXazwE&key=05d58d453d781a66b453e3d41dd8d420839dd771948b07f8c8afe3482922901ad13e8c8ab46f48d0883e9b55d304f6ce272854ecc200f68557644581408036c8ee0c5154fbf413a007cd7617b0e086f6&ascene=0&uin=MjY1NTg0NzMyMQ%3D%3D&devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=OB4hdN6ImVq0WXd%2BDAJVSADk3OsXMiJH5VzZqXk%2F7meSbJNPMBTUB2z5%2Fct%2BuPmN) | 黄文臣
+[iOS实时卡顿监控](http://www.tanhao.me/code/151113.html/) | 老谭笔记
+[Instrument Time Profiler总结](http://www.jianshu.com/p/21d29be26479) | 船长_
+[iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform) | aozhimin
+[移动 H5 首屏秒开优化方案探讨](http://blog.cnbang.net/tech/3477/) | bang's blog
 
 ### 功能/界面适配/界面相关
 
@@ -104,7 +120,6 @@
 [UIAlertController in iOS8](http://yulingtianxia.com/blog/2014/09/29/uialertcontroller-in-ios8/) | 作者：[玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
 [有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/) | 作者：[土土哥](http://tutuge.me/)
 
-### 其它
+---
 
-文章名称 | 简介 |
-----|------|
+感谢阅读，如果对大家有帮助，请[github](https://github.com/youngliuxx)上follow和star，转载请注明出处。
