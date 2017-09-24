@@ -50,19 +50,27 @@
 [iOS动画高级技术](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques) | AttackOnDobby
 [ (译)OpenGL ES 2.x 教程(一)](http://bayonetta.github.io/ios/OpenGL_ES2.0_tutorial_1/) | Bayonetta
 [最简单的基于FFmpeg的移动端例子：iOS HelloWorld](http://blog.csdn.net/leixiaohua1020/article/details/47071547) | 雷霄骅
+[一些提高UI绘制性能的技巧](http://vizlabxt.github.io/blog/2013/07/12/custom-drawing/) | http://vizlabxt.github.io/
 [iOS图形原理与离屏渲染](http://sonnewilling.com/blog/2016/10/19/iostu-xing-yuan-li-yu-chi-ping-xuan-ran/#fn:2) | http://sonnewilling.com/
 [iOS富文本组件的实现—DTCoreText源码解析 数据篇](http://blog.cnbang.net/tech/2630/) | bang's blog
 [iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/) | bang's blog
+[Matrix Code Rain及对Core Graphics绘制的优化](https://zshowing.github.io/2016/10/09/Project-Matrix-Code-Rain/) | zshowing.github.io
 
 ### 网络处理
 
 文章名称 | 简介 |
 ----|------|
-[NSURLProtocol 全攻略](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/) | NSURLProtocol 全攻略 - 网易乐得团队
+[NSURLProtocol 全攻略](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/) | 网易乐得团队
 [iOS应用架构谈 网络层设计方案](https://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html) | iOS应用架构谈 网络层设计方案 - casatwy
 [AFNetworking2.0源码解析<一>](http://blog.cnbang.net/tech/2320/) - bang's blog
 [AFNetworking源码解析](http://www.guiyongdong.com/2017/02/15/AFNetworking%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) | 贵大头
 [iOS 网络请求专题](http://liuyanwei.jumppo.com/2016/05/09/iOS-networking-0.html) | 刘彦玮的技术博客
+[TCP/IP 系列之包与流](http://mrpeak.cn/blog/tcp-packet-stream/) | TCP/IP 系列之包与流
+[DNS劫持](http://sindrilin.com/2017/03/31/DNS%E5%8A%AB%E6%8C%81/) | DNS劫持
+[IOS应用架构思考一（网络层）](https://blog.cnbluebox.com/blog/2015/05/07/architecture-ios-1/) | 刘坤
+[自己动手写一个 iOS 网络请求库系列一 —— NSURLSession 初探](https://lvwenhan.com/ios/454.html) | 岁寒
+[IP，TCP 和 HTTP](https://objccn.io/issue-10-6/) | ObjC中国
+
 
 ### 内存/数据/存储
 
@@ -72,6 +80,10 @@
 [持久化学习系列2](http://csbzhixing.github.io/2017/01/10/%E6%8C%81%E4%B9%85%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%B3%BB%E5%88%972/) | 持久化学习系列2 - csbzhixing
 [C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | casatwy.com
 [APP 缓存数据线程安全问题探讨](http://blog.cnbang.net/tech/3262/) | bang's blog
+[数据持久化](http://sindrilin.com/2015/09/11/%E6%95%B0%E6%8D%AE%E6%8C%81%E4%B9%85%E5%8C%96/) | SindriLin
+[APP 缓存数据线程安全问题探讨](http://wereadteam.github.io/2016/11/22/DataCache/) | bang - wereadteam
+[微信iOS SQLite源码优化实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286361&idx=1&sn=78bbcda7f41a14291ad71289e4821f71&scene=4#wechat_redirect) | 张三华
+[SQLite线程模式探讨](http://wereadteam.github.io/2016/08/19/SQLite/) | zepo
 
 ### 安全/逆向
 
@@ -84,7 +96,7 @@
 ](https://github.com/zhengmin1989/MyArticles) | 蒸米
 
 
-### 优化/质量/调试
+### 优化/质量/调试/设计模式
 
 文章名称 | 简介 |
 ----|------|
@@ -111,15 +123,23 @@
 [Instrument Time Profiler总结](http://www.jianshu.com/p/21d29be26479) | 船长_
 [iOS 性能监控 SDK —— Wedjat（华狄特）开发过程的调研和整理](https://github.com/aozhimin/iOS-Monitor-Platform) | aozhimin
 [移动 H5 首屏秒开优化方案探讨](http://blog.cnbang.net/tech/3477/) | bang's blog
+[iOS crash log](http://blog.csdn.net/xiaofei125145/article/details/50408051) |  iOS crash log
+[聊聊协议](http://sindrilin.com/2016/08/25/%E8%81%8A%E8%81%8A%E5%8D%8F%E8%AE%AE/) | 聊聊协议
+[提升UITableView性能-复杂页面的优化](http://tutuge.me/2015/02/19/%E6%8F%90%E5%8D%87UITableView%E6%80%A7%E8%83%BD-%E5%A4%8D%E6%9D%82%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8C%96/) | 提升UITableView性能-复杂页面的优化
 
-### 功能/界面适配/界面相关
+### 功能/适配/界面相关
 
 文章名称 | 简介 |
 ----|------|
-[自制一款强大的 ActionSheet](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/) | 作者：[玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
-[UIAlertController in iOS8](http://yulingtianxia.com/blog/2014/09/29/uialertcontroller-in-ios8/) | 作者：[玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
-[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/) | 作者：[土土哥](http://tutuge.me/)
+[自制一款强大的 ActionSheet](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/) | [玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
+[UIAlertController in iOS8](http://yulingtianxia.com/blog/2014/09/29/uialertcontroller-in-ios8/) | [玉令天下](http://yulingtianxia.com/blog/2016/07/18/TBActionSheet/)
+[有趣的Autolayout示例5-Masonry实现](http://tutuge.me/2017/03/12/autolayout-example-with-masonry5/) | [土土哥](http://tutuge.me/)
+[你可能需要为你的APP适配iOS11](http://wetest.qq.com/lab/view/326.html) | wetest.qq
+[开发者所需要知道的 iOS 11 SDK 新特性](https://onevcat.com/2017/06/ios-11-sdk/) | OneV's Den
 
 ---
 
 感谢阅读，如果对大家有帮助，请[github](https://github.com/youngliuxx)上follow和star，转载请注明出处。
+
+
+
