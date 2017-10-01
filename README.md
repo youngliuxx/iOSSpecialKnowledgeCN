@@ -28,7 +28,7 @@
 [Method Swizzle 与 AOP](http://csbzhixing.github.io/2016/08/19/Method%20Swizzle%20%E4%B8%8E%20AOP/) | Method Swizzle 与 AOP
 [重识 Objective-C Runtime - 看透 Type 与 Value](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/) | 作者孙源
 [反编译分析并模拟实现methodSignatureForSelector方法](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/) | 作者：[三土哥](http://tutuge.me/2017/04/08/diy-methodSignatureForSelector/)
-[Objective-C Automatic Reference Counting (ARC)¶](https://clang.llvm.org/docs/AutomaticReferenceCounting.html) | llvm.org
+[Objective-C Automatic Reference Counting (ARC)](https://clang.llvm.org/docs/AutomaticReferenceCounting.html) | llvm.org
 [线程安全之锁](https://wangdetong.github.io/2017/04/11/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E4%B9%8B%E9%94%81/) | WangDetong's Blog
 [Objective-C +load vs +initialize](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/) | 雷纯锋的技术博客
 
@@ -62,7 +62,7 @@
 ----|------|
 [NSURLProtocol 全攻略](http://tech.lede.com/2017/02/15/rd/iOS/iOS_NSURLProtocol/) | 网易乐得团队
 [iOS应用架构谈 网络层设计方案](https://casatwy.com/iosying-yong-jia-gou-tan-wang-luo-ceng-she-ji-fang-an.html) | iOS应用架构谈 网络层设计方案 - casatwy
-[AFNetworking2.0源码解析<一>](http://blog.cnbang.net/tech/2320/) - bang's blog
+[AFNetworking2.0源码解析<一>](http://blog.cnbang.net/tech/2320/) | bang's blog
 [AFNetworking源码解析](http://www.guiyongdong.com/2017/02/15/AFNetworking%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90/) | 贵大头
 [iOS 网络请求专题](http://liuyanwei.jumppo.com/2016/05/09/iOS-networking-0.html) | 刘彦玮的技术博客
 [TCP/IP 系列之包与流](http://mrpeak.cn/blog/tcp-packet-stream/) | TCP/IP 系列之包与流
@@ -70,7 +70,6 @@
 [IOS应用架构思考一（网络层）](https://blog.cnbluebox.com/blog/2015/05/07/architecture-ios-1/) | 刘坤
 [自己动手写一个 iOS 网络请求库系列一 —— NSURLSession 初探](https://lvwenhan.com/ios/454.html) | 岁寒
 [IP，TCP 和 HTTP](https://objccn.io/issue-10-6/) | ObjC中国
-
 
 ### 内存/数据/存储
 
@@ -126,6 +125,7 @@
 [iOS crash log](http://blog.csdn.net/xiaofei125145/article/details/50408051) |  iOS crash log
 [聊聊协议](http://sindrilin.com/2016/08/25/%E8%81%8A%E8%81%8A%E5%8D%8F%E8%AE%AE/) | 聊聊协议
 [提升UITableView性能-复杂页面的优化](http://tutuge.me/2015/02/19/%E6%8F%90%E5%8D%87UITableView%E6%80%A7%E8%83%BD-%E5%A4%8D%E6%9D%82%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8C%96/) | 提升UITableView性能-复杂页面的优化
+[Instruments tutorial Part 1 - profiling templates, deferred mode, launch instruments](http://www.spotlessicode.com/blog/posts/instruments-tutorial-part-1-profiling-templates-deferred-mode-launch-instruments) | spotlessicode.com
 
 ### 功能/适配/界面相关
 
@@ -140,6 +140,5 @@
 ---
 
 感谢阅读，如果对大家有帮助，请[github](https://github.com/youngliuxx)上follow和star，转载请注明出处。
-
 
 
