@@ -1,6 +1,44 @@
-# iOS专项学习 - 高质量文章收集
+# iOS高质量文章收集
 
-按iOS知识点分类收集的高质量文章，不断的集中对一个知识点的学习，才能快速的提高知识点的深度。长期更新，欢迎关注！
+按iOS知识点分类收集的高质量文章。长期更新，欢迎关注！
+
+## Swift
+
+### 线程/底层
+
+文章名称 | 简介 |
+----|------|
+
+### 音视频/图文/动画
+
+文章名称 | 简介 |
+----|------|
+
+### 网络处理
+
+文章名称 | 简介 |
+----|------|
+[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | 网络中线程安全的简单方法
+
+### 内存/数据/存储
+
+文章名称 | 简介 |
+----|------|
+[Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
+[Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
+[JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
+
+### 优化/质量/调试/设计模式
+
+文章名称 | 简介 |
+----|------|
+[Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
+[关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
+
+### 功能/适配/界面相关
+
+文章名称 | 简介 |
+----|------|
 
 ## Objective-C
 
@@ -93,7 +131,6 @@
 [Make WeChat Great Again](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) | Make WeChat Great Again - 玉令天下
 [蒸米的文章(iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等)
 ](https://github.com/zhengmin1989/MyArticles) | 蒸米
-
 
 ### 优化/质量/调试/设计模式
 
