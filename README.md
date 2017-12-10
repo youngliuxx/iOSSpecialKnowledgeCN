@@ -8,11 +8,15 @@
 
 文章名称 | 简介 |
 ----|------|
+[Swift & the Objective-C Runtime](http://nshipster.com/swift-objc-runtime/) | Swift在Extension中添加属性
+[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | A Simple Approach to Thread-Safe Networking in iOS Apps
+[从零构建 Dispatch Queue](http://swift.gg/2017/09/07/friday-qa-2015-09-04-lets-build-dispatch_queue/) | 作者：Mike Ash
 
 ### 音视频/图文/动画
 
 文章名称 | 简介 |
 ----|------|
+[Material](https://github.com/CosmicMind/Material) | 很全的UI/UX框架
 
 ### 网络处理
 
@@ -27,6 +31,8 @@
 [Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
 [Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
 [JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
+[Building your own memory manager for C/C++ projects](https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/) | 教你如何写一个属于自己的Memory Manager
+[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | 清晰易懂
 
 ### 优化/质量/调试/设计模式
 
@@ -34,6 +40,8 @@
 ----|------|
 [Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
 [关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
+[A Beginner’s Guide to Protocols and Protocol Extensions in Swift](https://www.appcoda.com/protocols-in-swift/) | Swift的协议与协议扩展
+[Swift Style Guide](https://github.com/linkedin/swift-style-guide) | Swift编码风格指引 - LinkedIn
 
 ### 功能/适配/界面相关
 
