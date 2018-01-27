@@ -1,10 +1,10 @@
-# iOS高质量文章收集
+# iOS专项学习 - 高质量文章收集
 
 按iOS知识点分类收集的高质量文章。长期更新，欢迎关注！
 
-## Swift
+## 线程/底层/Runtime
 
-### 线程/底层
+### Swift
 
 文章名称 | 简介 |
 ----|------|
@@ -12,45 +12,7 @@
 [A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | A Simple Approach to Thread-Safe Networking in iOS Apps
 [从零构建 Dispatch Queue](http://swift.gg/2017/09/07/friday-qa-2015-09-04-lets-build-dispatch_queue/) | 作者：Mike Ash
 
-### 音视频/图文/动画
-
-文章名称 | 简介 |
-----|------|
-[Material](https://github.com/CosmicMind/Material) | 很全的UI/UX框架
-
-### 网络处理
-
-文章名称 | 简介 |
-----|------|
-[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | 网络中线程安全的简单方法
-
-### 内存/数据/存储
-
-文章名称 | 简介 |
-----|------|
-[Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
-[Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
-[JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
-[Building your own memory manager for C/C++ projects](https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/) | 教你如何写一个属于自己的Memory Manager
-[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | 清晰易懂
-
-### 优化/质量/调试/设计模式
-
-文章名称 | 简介 |
-----|------|
-[Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
-[关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
-[A Beginner’s Guide to Protocols and Protocol Extensions in Swift](https://www.appcoda.com/protocols-in-swift/) | Swift的协议与协议扩展
-[Swift Style Guide](https://github.com/linkedin/swift-style-guide) | Swift编码风格指引 - LinkedIn
-
-### 功能/适配/界面相关
-
-文章名称 | 简介 |
-----|------|
-
-## Objective-C
-
-### 线程/底层/Runtime
+### Objective-C
 
 文章名称 | 简介 |
 ----|------|
@@ -77,8 +39,17 @@
 [Objective-C Automatic Reference Counting (ARC)](https://clang.llvm.org/docs/AutomaticReferenceCounting.html) | llvm.org
 [线程安全之锁](https://wangdetong.github.io/2017/04/11/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E4%B9%8B%E9%94%81/) | WangDetong's Blog
 [Objective-C +load vs +initialize](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/) | 雷纯锋的技术博客
+[关于 @synchronized，这儿比你想知道的还要多](http://yulingtianxia.com/blog/2015/11/01/More-than-you-want-to-know-about-synchronized) | 关于 @synchronized，这儿比你想知道的还要多
 
-### 音视频/图文/动画
+## 音视频/图文/动画
+
+### Swift
+
+文章名称 | 简介 |
+----|------|
+[Material](https://github.com/CosmicMind/Material) | 很全的UI/UX框架
+
+### Objective-C
 
 文章名称 | 简介 |
 ----|------|
@@ -101,8 +72,17 @@
 [iOS富文本组件的实现—DTCoreText源码解析 数据篇](http://blog.cnbang.net/tech/2630/) | bang's blog
 [iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/) | bang's blog
 [Matrix Code Rain及对Core Graphics绘制的优化](https://zshowing.github.io/2016/10/09/Project-Matrix-Code-Rain/) | zshowing.github.io
+[SDWebImage 使用小结与原理浅析](https://juejin.im/entry/57664cfb2e958a00697f0989) | SDWebImage 使用小结与原理浅 
 
-### 网络处理
+## 网络相关
+
+### Swift
+
+文章名称 | 简介 |
+----|------|
+[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | 网络中线程安全的简单方法
+
+### Objective-C
 
 文章名称 | 简介 |
 ----|------|
@@ -117,7 +97,20 @@
 [自己动手写一个 iOS 网络请求库系列一 —— NSURLSession 初探](https://lvwenhan.com/ios/454.html) | 岁寒
 [IP，TCP 和 HTTP](https://objccn.io/issue-10-6/) | ObjC中国
 
-### 内存/数据/存储
+## 内存/数据/存储
+
+### Swift
+
+文章名称 | 简介 |
+----|------|
+[Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
+[Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
+[JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
+[Building your own memory manager for C/C++ projects](https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/) | 教你如何写一个属于自己的Memory Manager
+[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | 清晰易懂
+[NSHashTable & NSMapTable](http://nshipster.com/nshashtable-and-nsmaptable/) | NSHashTable & NSMapTable
+
+### Objective-C
 
 文章名称 | 简介 |
 ----|------|
@@ -130,17 +123,18 @@
 [微信iOS SQLite源码优化实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286361&idx=1&sn=78bbcda7f41a14291ad71289e4821f71&scene=4#wechat_redirect) | 张三华
 [SQLite线程模式探讨](http://wereadteam.github.io/2016/08/19/SQLite/) | zepo
 
-### 安全/逆向
+## 优化/质量/调试/设计模式
+
+### Swift
 
 文章名称 | 简介 |
 ----|------|
-[谈谈移动应用的安全性实践](http://tech.glowing.com/cn/tan-tan-yi-dong-ying-yong-de-an-quan-xing-shi-jian/) | 谈谈移动应用的安全性实践
-[如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战](http://yulingtianxia.com/blog/2017/03/06/How-to-hook-the-correct-method-in-reverse-engineering/) | 如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战 - 玉令天下
-[Make WeChat Great Again](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) | Make WeChat Great Again - 玉令天下
-[蒸米的文章(iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等)
-](https://github.com/zhengmin1989/MyArticles) | 蒸米
+[Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
+[关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
+[A Beginner’s Guide to Protocols and Protocol Extensions in Swift](https://www.appcoda.com/protocols-in-swift/) | Swift的协议与协议扩展
+[Swift Style Guide](https://github.com/linkedin/swift-style-guide) | Swift编码风格指引 - LinkedIn
 
-### 优化/质量/调试/设计模式
+### Objective-C
 
 文章名称 | 简介 |
 ----|------|
@@ -172,7 +166,9 @@
 [提升UITableView性能-复杂页面的优化](http://tutuge.me/2015/02/19/%E6%8F%90%E5%8D%87UITableView%E6%80%A7%E8%83%BD-%E5%A4%8D%E6%9D%82%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8C%96/) | 提升UITableView性能-复杂页面的优化
 [Instruments tutorial Part 1 - profiling templates, deferred mode, launch instruments](http://www.spotlessicode.com/blog/posts/instruments-tutorial-part-1-profiling-templates-deferred-mode-launch-instruments) | spotlessicode.com
 
-### 功能/适配/界面相关
+## 功能/适配/界面相关
+
+### Objetive-C
 
 文章名称 | 简介 |
 ----|------|
@@ -182,8 +178,17 @@
 [你可能需要为你的APP适配iOS11](http://wetest.qq.com/lab/view/326.html) | wetest.qq
 [开发者所需要知道的 iOS 11 SDK 新特性](https://onevcat.com/2017/06/ios-11-sdk/) | OneV's Den
 
+## 安全/逆向
+
+### Objetive-C
+
+文章名称 | 简介 |
+----|------|
+[谈谈移动应用的安全性实践](http://tech.glowing.com/cn/tan-tan-yi-dong-ying-yong-de-an-quan-xing-shi-jian/) | 谈谈移动应用的安全性实践
+[如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战](http://yulingtianxia.com/blog/2017/03/06/How-to-hook-the-correct-method-in-reverse-engineering/) | 如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战 - 玉令天下
+[Make WeChat Great Again](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) | Make WeChat Great Again - 玉令天下
+[(iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等)](https://github.com/zhengmin1989/MyArticles) | 很全
+
 ---
 
 感谢阅读，如果对大家有帮助，请[github](https://github.com/youngliuxx)上follow和star，转载请注明出处。
-
-
