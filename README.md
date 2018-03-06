@@ -4,16 +4,6 @@
 
 ## 线程/底层/Runtime
 
-### Swift
-
-文章名称 | 简介 |
-----|------|
-[Swift & the Objective-C Runtime](http://nshipster.com/swift-objc-runtime/) | Swift在Extension中添加属性
-[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | A Simple Approach to Thread-Safe Networking in iOS Apps
-[从零构建 Dispatch Queue](http://swift.gg/2017/09/07/friday-qa-2015-09-04-lets-build-dispatch_queue/) | 作者：Mike Ash
-
-### Objective-C
-
 文章名称 | 简介 |
 ----|------|
 [CoreFoundation Apple Source Browser](https://opensource.apple.com/tarballs/CF/) |  CoreFoundation源码浏览器  |
@@ -40,16 +30,21 @@
 [线程安全之锁](https://wangdetong.github.io/2017/04/11/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E4%B9%8B%E9%94%81/) | WangDetong's Blog
 [Objective-C +load vs +initialize](http://blog.leichunfeng.com/blog/2015/05/02/objective-c-plus-load-vs-plus-initialize/) | 雷纯锋的技术博客
 [关于 @synchronized，这儿比你想知道的还要多](http://yulingtianxia.com/blog/2015/11/01/More-than-you-want-to-know-about-synchronized) | 关于 @synchronized，这儿比你想知道的还要多
+[Blocking Queue in iOS](https://mobiarch.wordpress.com/2012/05/22/blocking-queue-in-ios/) | iOS仿Java的Blocking Queue
+[Framework编程指南](https://developer.apple.com/library/content/documentation/MacOSX/Conceptual/BPFrameworks/Frameworks.html) | Framework编程指南 - Apple文档
+[Hook Objective-C Block with Libffi](http://yulingtianxia.com/blog/2018/02/28/Hook-Objective-C-Block-with-Libffi/) | Hook Objective-C Block实现
+[iOS多线程到底不安全在哪里？](http://mrpeak.cn/blog/ios-thread-safety/)  | iOS多线程到底不安全在哪里？
+[正确使用多线程同步锁@synchronized()](http://mrpeak.cn/blog/synchronized/) | 正确使用多线程同步锁@synchronized()
 
-## 音视频/图文/动画
-
-### Swift
+#### Swift
 
 文章名称 | 简介 |
 ----|------|
-[Material](https://github.com/CosmicMind/Material) | 很全的UI/UX框架
+[Swift & the Objective-C Runtime](http://nshipster.com/swift-objc-runtime/) | Swift在Extension中添加属性
+[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | A Simple Approach to Thread-Safe Networking in iOS Apps
+[从零构建 Dispatch Queue](http://swift.gg/2017/09/07/friday-qa-2015-09-04-lets-build-dispatch_queue/) | 作者：Mike Ash
 
-### Objective-C
+## 音视频/图文/动画
 
 文章名称 | 简介 |
 ----|------|
@@ -74,15 +69,13 @@
 [Matrix Code Rain及对Core Graphics绘制的优化](https://zshowing.github.io/2016/10/09/Project-Matrix-Code-Rain/) | zshowing.github.io
 [SDWebImage 使用小结与原理浅析](https://juejin.im/entry/57664cfb2e958a00697f0989) | SDWebImage 使用小结与原理浅 
 
-## 网络相关
-
-### Swift
+#### Swift
 
 文章名称 | 简介 |
 ----|------|
-[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | 网络中线程安全的简单方法
+[Material](https://github.com/CosmicMind/Material) | 很全的UI/UX框架
 
-### Objective-C
+## 网络相关
 
 文章名称 | 简介 |
 ----|------|
@@ -97,20 +90,13 @@
 [自己动手写一个 iOS 网络请求库系列一 —— NSURLSession 初探](https://lvwenhan.com/ios/454.html) | 岁寒
 [IP，TCP 和 HTTP](https://objccn.io/issue-10-6/) | ObjC中国
 
-## 内存/数据/存储
-
-### Swift
+#### Swift
 
 文章名称 | 简介 |
 ----|------|
-[Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
-[Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
-[JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
-[Building your own memory manager for C/C++ projects](https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/) | 教你如何写一个属于自己的Memory Manager
-[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | 清晰易懂
-[NSHashTable & NSMapTable](http://nshipster.com/nshashtable-and-nsmaptable/) | NSHashTable & NSMapTable
+[A Simple Approach to Thread-Safe Networking in iOS Apps](https://robots.thoughtbot.com/a-simple-approach-to-thread-safe-networking-in-ios-apps?utm_campaign=iOS%252BDev%252BWeekly&amp;utm_medium=rss&amp;utm_source=iOS_Dev_Weekly_Issue_321) | 网络中线程安全的简单方法
 
-### Objective-C
+## 内存/数据/存储
 
 文章名称 | 简介 |
 ----|------|
@@ -123,18 +109,18 @@
 [微信iOS SQLite源码优化实践](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286361&idx=1&sn=78bbcda7f41a14291ad71289e4821f71&scene=4#wechat_redirect) | 张三华
 [SQLite线程模式探讨](http://wereadteam.github.io/2016/08/19/SQLite/) | zepo
 
-## 优化/质量/调试/设计模式
-
-### Swift
+#### Swift
 
 文章名称 | 简介 |
 ----|------|
-[Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
-[关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
-[A Beginner’s Guide to Protocols and Protocol Extensions in Swift](https://www.appcoda.com/protocols-in-swift/) | Swift的协议与协议扩展
-[Swift Style Guide](https://github.com/linkedin/swift-style-guide) | Swift编码风格指引 - LinkedIn
+[Core Data Programming Guide](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html#//apple_ref/doc/uid/TP40001075-CH2-SW1) | 官方文档
+[Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) | 讲解Swift4的Json解析，很详细。
+[JSON Parsing in Swift 4](https://troz.net/2017/06/json-parsing-in-swift-4/) | Swift4 Json解析
+[Building your own memory manager for C/C++ projects](https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/) | 教你如何写一个属于自己的Memory Manager
+[C程序的内存管理](https://casatwy.com/ccheng-xu-de-nei-cun-guan-li.html) | 清晰易懂
+[NSHashTable & NSMapTable](http://nshipster.com/nshashtable-and-nsmaptable/) | NSHashTable & NSMapTable
 
-### Objective-C
+## 优化/质量/调试/设计模式
 
 文章名称 | 简介 |
 ----|------|
@@ -165,10 +151,19 @@
 [聊聊协议](http://sindrilin.com/2016/08/25/%E8%81%8A%E8%81%8A%E5%8D%8F%E8%AE%AE/) | 聊聊协议
 [提升UITableView性能-复杂页面的优化](http://tutuge.me/2015/02/19/%E6%8F%90%E5%8D%87UITableView%E6%80%A7%E8%83%BD-%E5%A4%8D%E6%9D%82%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%BC%98%E5%8C%96/) | 提升UITableView性能-复杂页面的优化
 [Instruments tutorial Part 1 - profiling templates, deferred mode, launch instruments](http://www.spotlessicode.com/blog/posts/instruments-tutorial-part-1-profiling-templates-deferred-mode-launch-instruments) | spotlessicode.com
+[避免滥用单例](https://objccn.io/issue-13-2/) | 单例是整个 Cocoa 中被广泛使用的核心设计模式之一。
+[iOS微信内存监控](https://mp.weixin.qq.com/s/CiqMlEIp1Ir2EJSDGgMooQ) | iOS微信内存监控
+
+#### Swift
+
+文章名称 | 简介 |
+----|------|
+[Error Handling](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html) | 官方文档
+[关于 Swift Error 的分类](https://onevcat.com/2017/10/swift-error-category/) |  Swift Error 的分类
+[A Beginner’s Guide to Protocols and Protocol Extensions in Swift](https://www.appcoda.com/protocols-in-swift/) | Swift的协议与协议扩展
+[Swift Style Guide](https://github.com/linkedin/swift-style-guide) | Swift编码风格指引 - LinkedIn
 
 ## 功能/适配/界面相关
-
-### Objetive-C
 
 文章名称 | 简介 |
 ----|------|
@@ -180,14 +175,21 @@
 
 ## 安全/逆向
 
-### Objetive-C
-
 文章名称 | 简介 |
 ----|------|
 [谈谈移动应用的安全性实践](http://tech.glowing.com/cn/tan-tan-yi-dong-ying-yong-de-an-quan-xing-shi-jian/) | 谈谈移动应用的安全性实践
 [如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战](http://yulingtianxia.com/blog/2017/03/06/How-to-hook-the-correct-method-in-reverse-engineering/) | 如何在逆向工程中 Hook 得更准 - 微信屏蔽好友&群消息实战 - 玉令天下
 [Make WeChat Great Again](http://yulingtianxia.com/blog/2017/02/28/Make-WeChat-Great-Again/) | Make WeChat Great Again - 玉令天下
 [(iOS冰与火之歌系列，一步一步学ROP系列，安卓动态调试七种武器系列等)](https://github.com/zhengmin1989/MyArticles) | 很全
+[【腾讯Bugly干货分享】移动App入侵与逆向破解技术－iOS篇](http://www.jueta.com/appdev/ios-20160708-53017.html) | 微信红包插件原理
+[黑科技：把第三方 iOS 应用转成动态库](http://blog.imjun.net/posts/convert-iOS-app-to-dynamic-library/) | 把第三方 iOS 应用转成动态库
+[iOS符号表恢复&逆向支付宝](http://blog.imjun.net/posts/restore-symbol-of-iOS-app/) | iOS符号表恢复&逆向支付宝
+
+## 深度学习/人工智能
+
+文章名称 | 简介 |
+----|------|
+[深度学习及AR在移动端打车场景下的应用](https://tech.meituan.com/cnn_ar_mobile_car_finding.html) | Core ML的应用 - 美团点评技术团队
 
 ---
 
