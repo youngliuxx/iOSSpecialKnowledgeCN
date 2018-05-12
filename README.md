@@ -35,6 +35,13 @@
 [Hook Objective-C Block with Libffi](http://yulingtianxia.com/blog/2018/02/28/Hook-Objective-C-Block-with-Libffi/) | Hook Objective-C Block实现
 [iOS多线程到底不安全在哪里？](http://mrpeak.cn/blog/ios-thread-safety/)  | iOS多线程到底不安全在哪里？
 [正确使用多线程同步锁@synchronized()](http://mrpeak.cn/blog/synchronized/) | 正确使用多线程同步锁@synchronized()
+[CLANG技术分享系列一:编写你的第一个CLANG插件](http://kangwang1988.github.io/tech/2016/10/31/write-your-first-clang-plugin.html) | CLANG技术分享系列一:编写你的第一个CLANG插件
+[使用 libffi 实现 AOP](https://juejin.im/post/5ae28acd6fb9a07ac55fdac0) | 使用 libffi 实现 AOP
+[ios-assembly-tutorial](https://www.raywenderlich.com/37181/ios-assembly-tutorial) | iOS汇编教程 - Raywenderlick
+[objc_msgSend_stret](http://sealiesoftware.com/blog/archive/2008/10/30/objc_explain_objc_msgSend_stret.html) | objc_msgSend详解
+[Let's Build objc_msgSend](https://www.mikeash.com/pyblog/friday-qa-2012-11-16-lets-build-objc_msgsend.html) | Let's Build objc_msgSend
+[汇编语言入门教程](http://www.ruanyifeng.com/blog/2018/01/assembly-language-primer.html) | 通俗易懂（阮一峰）
+[Mach-O 可执行文件](https://objccn.io/issue-6-3/) | ObjC中国
 
 #### Swift
 
@@ -68,6 +75,17 @@
 [iOS图片加载速度极限优化—FastImageCache解析](http://blog.cnbang.net/tech/2578/) | bang's blog
 [Matrix Code Rain及对Core Graphics绘制的优化](https://zshowing.github.io/2016/10/09/Project-Matrix-Code-Rain/) | zshowing.github.io
 [SDWebImage 使用小结与原理浅析](https://juejin.im/entry/57664cfb2e958a00697f0989) | SDWebImage 使用小结与原理浅 
+[Metal programming guide - Apple文档](https://developer.apple.com/library/content/documentation/Miscellaneous/Conceptual/MetalProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014221-CH1-SW1) | Metal官方文档
+[MetalImage](https://github.com/erickingxu/MetalImage) | 基于Metal写的一个图片处理框架
+[从0打造一个GPUImage系列文章](https://zhuanlan.zhihu.com/zangqilong) | 叶孤城的iOS杂货铺
+[基于 CADisplayLink 的 FPS 指示器详解](https://www.jianshu.com/p/86705c95c224) | iOS中基于CADisplayLink的FPS指示器详解
+[Metal Shading Language](https://developer.apple.com/metal/Metal-Shading-Language-Specification.pdf) | Metal的着色器语言 - Apple官方文档
+[【iOS开发】关于视频直播技术，你想要知道的都在这里了（一）采集](https://www.jianshu.com/p/ddb640ac4fec) | 七牛云发布，【iOS开发】关于视频直播技术系列
+[视频工具箱和硬件加速](https://www.objccn.io/issue-23-3) | ObjC 中国- 视频工具箱和硬件加速
+[iOS平台图片编解码入门教程（Image/IO篇）](http://dreampiggy.com/2017/10/30/iOS%E5%B9%B3%E5%8F%B0%E5%9B%BE%E7%89%87%E7%BC%96%E8%A7%A3%E7%A0%81%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88Image:IO%E7%AF%87%EF%BC%89/) | iOS平台图片编解码入门教程
+[iOS平台图片编解码入门教程（第三方编解码篇）](http://dreampiggy.com/2017/10/30/iOS%E5%B9%B3%E5%8F%B0%E5%9B%BE%E7%89%87%E7%BC%96%E8%A7%A3%E7%A0%81%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%88%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BC%96%E8%A7%A3%E7%A0%81%E7%AF%87%EF%BC%89/) | iOS平台图片编解码入门教程（第三方编解码篇）
+[TUTORIAL: IMAGE RESCALING](https://clouard.users.greyc.fr/Pantheon/experiments/rescaling/index-en.html) | 常见的图像重采样算法处理效果的对比
+[关于webp图片格式初探](https://cloud.tencent.com/developer/article/1033988) | 关于webp图片格式初探
 
 #### Swift
 
@@ -89,6 +107,7 @@
 [IOS应用架构思考一（网络层）](https://blog.cnbluebox.com/blog/2015/05/07/architecture-ios-1/) | 刘坤
 [自己动手写一个 iOS 网络请求库系列一 —— NSURLSession 初探](https://lvwenhan.com/ios/454.html) | 岁寒
 [IP，TCP 和 HTTP](https://objccn.io/issue-10-6/) | ObjC中国
+[iOS搭建Socket服务器的相关方法](https://ctinusdev.github.io/2017/08/13/BSDSocketServer/#more) | iOS搭建Socket服务器的相关方法
 
 #### Swift
 
@@ -153,6 +172,8 @@
 [Instruments tutorial Part 1 - profiling templates, deferred mode, launch instruments](http://www.spotlessicode.com/blog/posts/instruments-tutorial-part-1-profiling-templates-deferred-mode-launch-instruments) | spotlessicode.com
 [避免滥用单例](https://objccn.io/issue-13-2/) | 单例是整个 Cocoa 中被广泛使用的核心设计模式之一。
 [iOS微信内存监控](https://mp.weixin.qq.com/s/CiqMlEIp1Ir2EJSDGgMooQ) | iOS微信内存监控
+[iOS 组件化 —— 路由设计思路分析](https://juejin.im/post/58b2aad6b123db0052cc9edd?utm_source=gold_browser_extension) | iOS 组件化相关
+[iOS优化-包大小分析-linkMap](https://dishibolei.github.io/2017/08/17/ios-linkmap/) | iOS优化相关
 
 #### Swift
 
@@ -190,7 +211,8 @@
 文章名称 | 简介 |
 ----|------|
 [深度学习及AR在移动端打车场景下的应用](https://tech.meituan.com/cnn_ar_mobile_car_finding.html) | Core ML的应用 - 美团点评技术团队
-
+[Google机器学习速成课程](https://developers.google.cn/machine-learning/crash-course/) | Google
+[李宏毅 / 一天搞懂深度學習](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3) | 需翻墙
 ---
 
 感谢阅读，如果对大家有帮助，请[github](https://github.com/youngliuxx)上follow和star，转载请注明出处。
